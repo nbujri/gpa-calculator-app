@@ -1,2 +1,6 @@
-# gpa-calculator-app
-WEB 425 - GPA Calculator App
+# WEB 425 - GPA Calculator App
+
+## Contributors
+
+- Ngi Bujri
+- Richard Krasso
